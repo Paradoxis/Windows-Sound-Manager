@@ -12,3 +12,8 @@ This isn't a fool-proof solution, but it works if you just need to build a quick
 ## Specifications
 * **Tested on:** Windows 10
 * **Python version:** Python 3.5
+
+## Links
+* [Virtual-Key Code list](https://msdn.microsoft.com/en-us/library/windows/desktop/dd375731(v=vs.85).aspx)
+* [C struct code](http://stackoverflow.com/questions/13564851/generate-keyboard-events)
+* [C struct code credit](https://github.com/lucasg)
