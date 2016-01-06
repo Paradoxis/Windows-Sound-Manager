@@ -10,5 +10,5 @@ As I found out, changing your audio settings programmatically with programming l
 This isn't a fool-proof solution, but it works if you just need to build a quick application that requires your sound to to controlled with code.
 
 ## Specifications
-**Tested on:** Windows 10
-**Python version:** Python 3.5
+* **Tested on:** Windows 10
+* **Python version:** Python 3.5
