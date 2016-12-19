@@ -104,7 +104,7 @@ class Keyboard:
     VK_X = 0x58
     VK_Y = 0x59
     VK_Z = 0x5A
-    VK_VOLUM E_MUTE = 0xAD
+    VK_VOLUME_MUTE = 0xAD
     VK_VOLUME_DOWN = 0xAE
     VK_VOLUME_UP = 0xAF
     VK_MEDIA_NEXT_TRACK = 0xB0
